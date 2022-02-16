@@ -1,0 +1,10 @@
+S:\Core\EmployeePayrollManagement\Payroll.BL\bin\Debug\netcoreapp3.1\Payroll.BL.deps.json
+S:\Core\EmployeePayrollManagement\Payroll.BL\bin\Debug\netcoreapp3.1\Payroll.BL.dll
+S:\Core\EmployeePayrollManagement\Payroll.BL\bin\Debug\netcoreapp3.1\Payroll.BL.pdb
+S:\Core\EmployeePayrollManagement\Payroll.BL\obj\Debug\netcoreapp3.1\Payroll.BL.csproj.AssemblyReference.cache
+S:\Core\EmployeePayrollManagement\Payroll.BL\obj\Debug\netcoreapp3.1\Payroll.BL.GeneratedMSBuildEditorConfig.editorconfig
+S:\Core\EmployeePayrollManagement\Payroll.BL\obj\Debug\netcoreapp3.1\Payroll.BL.AssemblyInfoInputs.cache
+S:\Core\EmployeePayrollManagement\Payroll.BL\obj\Debug\netcoreapp3.1\Payroll.BL.AssemblyInfo.cs
+S:\Core\EmployeePayrollManagement\Payroll.BL\obj\Debug\netcoreapp3.1\Payroll.BL.csproj.CoreCompileInputs.cache
+S:\Core\EmployeePayrollManagement\Payroll.BL\obj\Debug\netcoreapp3.1\Payroll.BL.dll
+S:\Core\EmployeePayrollManagement\Payroll.BL\obj\Debug\netcoreapp3.1\Payroll.BL.pdb

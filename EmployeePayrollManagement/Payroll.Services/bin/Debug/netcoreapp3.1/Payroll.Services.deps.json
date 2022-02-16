@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Payroll.Services/1.0.0": {
+        "dependencies": {
+          "Payroll.BL": "1.0.0"
+        },
+        "runtime": {
+          "Payroll.Services.dll": {}
+        }
+      },
+      "Payroll.BL/1.0.0": {
+        "runtime": {
+          "Payroll.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Payroll.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Payroll.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
